@@ -1,5 +1,5 @@
 - 👋 Olá, sou o @snowkkjk
-- 👀 Estou interessado em aperfeiçoar cade vez mais meu conhecimento sobre programação
+- 👀 Estou interessado em aperfeiçoar cada vez mais meu conhecimento sobre programação
 - 🌱 Estou arpendendo atualmente JS, DBD, PYTHON
 - 📫 Instagram - itz_pedrooo | Discord - snowkkj#1912
 
